@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @Google43445
-<!---
-Google43445/Google43445 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-*fart*
+- 👋 Hi, My name is @imasqueakydoor
+- I only know basic HTML and CSS, and my only line of code I know in JS is **console.log("beepblorp i'm yapatron3000")**.
+- I would love some help on my websites, so please check if I have anything to improve in my trashy websites!
